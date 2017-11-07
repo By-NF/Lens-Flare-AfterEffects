@@ -1,0 +1,531 @@
+﻿pt_OpenSesame	Version:1.6					Export Folder:/e/flare/CraftLight by NF/Version antérieure	Project Folder:/e/flare/CraftLight by NF
+Project	BitsPerChannel:32	Blending:0	StartFrame:TIMECODE	FootageStart:SOURCE	Display:TIMECODE	DropFrame:0
+Folder	Name:CraftLight #inside	ID:282	FolderID:0	Label:2
+Folder	Name:Solides	ID:34	FolderID:282	Label:2
+Folder	Name:Exemples	ID:314	FolderID:0	Label:2
+Footage Section	3
+Footage	Name:Poussière	ID:276	FolderID:282	Type:Still	Width:1920	Height:1080		FieldSep:OFF			Alpha:STRAIGHT	Invert:0	PremulCol:0;0;0	Aspect:1											Path:/e/flare/Texture-Lens.png	Relative Path:../../Texture-Lens.png	Label:5
+Footage	Name:Logo #1 Star Wars	ID:280	FolderID:314	Type:Still	Width:1280	Height:547		FieldSep:OFF			Alpha:STRAIGHT	Invert:0	PremulCol:0;0;0	Aspect:1											Path:/e/Images/Star_Wars_Yellow_Logo.svg.png	Relative Path:../../../Images/Star_Wars_Yellow_Logo.svg.png	Label:5
+Footage	Name:Logo #2 Apple	ID:313	FolderID:314	Type:Still	Width:2000	Height:2000		FieldSep:OFF			Alpha:STRAIGHT	Invert:0	PremulCol:0;0;0	Aspect:1											Path:/e/Images/Apple_logo_black.svg.png	Relative Path:../../../Images/Apple_logo_black.svg.png	Label:5
+Comp Section	9
+Comp	Name:CraftLight	ID:75	FolderID:0	Width:1920	Height:1080	Resolution:1	MB:0	FB:0	Angle:180	Phase:0	Shy:0	PreserveRate:0	PreserveRes:0	Aspect:1	Duration:30	FPS:25		WorkAreaDuration:3			BgColor:0;0;0	DropFrame:1	Label:15
+Comp	Name:Composition 1	ID:247	FolderID:282	Width:1920	Height:1080	Resolution:1	MB:0	FB:0	Angle:180	Phase:0	Shy:0	PreserveRate:0	PreserveRes:0	Aspect:1	Duration:30	FPS:25					BgColor:0;0;0	DropFrame:1	Label:15
+Comp	Name:FLARE	ID:63	FolderID:282	Width:1920	Height:1080	Resolution:1	MB:0	FB:0	Angle:180	Phase:0	Shy:0	PreserveRate:0	PreserveRes:0	Aspect:1	Duration:30	FPS:25		WorkAreaDuration:3.84			BgColor:0;0;0	DropFrame:1	Label:15
+Comp	Name:Glow	ID:23	FolderID:282	Width:1920	Height:1080	Resolution:1	MB:0	FB:0	Angle:180	Phase:0	Shy:0	PreserveRate:0	PreserveRes:0	Aspect:1	Duration:30	FPS:25					BgColor:0;0;0	DropFrame:1	Label:15
+Comp	Name:Hoop	ID:226	FolderID:282	Width:1920	Height:1080	Resolution:1	MB:0	FB:0	Angle:180	Phase:0	Shy:0	PreserveRate:0	PreserveRes:0	Aspect:1	Duration:30	FPS:25					BgColor:0;0;0	DropFrame:1	Label:15
+Comp	Name:Hoop : Texture	ID:194	FolderID:282	Width:1920	Height:1080	Resolution:1	MB:0	FB:0	Angle:180	Phase:0	Shy:0	PreserveRate:0	PreserveRes:0	Aspect:1	Duration:30	FPS:25					BgColor:0;0;0	DropFrame:1	Label:15
+Comp	Name:Iris Solo	ID:113	FolderID:282	Width:1920	Height:1080	Resolution:1	MB:0	FB:0	Angle:180	Phase:0	Shy:0	PreserveRate:0	PreserveRes:0	Aspect:1	Duration:30	FPS:25					BgColor:0;0;0	DropFrame:1	Label:15
+Comp	Name:Multi-iris	ID:168	FolderID:282	Width:1920	Height:1080	Resolution:1	MB:0	FB:0	Angle:180	Phase:0	Shy:0	PreserveRate:0	PreserveRes:0	Aspect:1	Duration:30	FPS:25					BgColor:0;0;0	DropFrame:1	Label:15
+Comp	Name:Multi-iris Ensemble	ID:157	FolderID:282	Width:1920	Height:1080	Resolution:1	MB:0	FB:0	Angle:180	Phase:0	Shy:0	PreserveRate:0	PreserveRes:0	Aspect:1	Duration:30	FPS:25					BgColor:0;0;0	DropFrame:1	Label:15
+Solid Section	33
+Solid	Name:Particule	ID:345	FolderID:282	Width:1920	Height:1080	Aspect:1														Color:0;0;0	Label:1
+Solid	Name:Calque d'effets 1	ID:37	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:1;1;1	Label:1
+Solid	Name:Calque d'effets 2	ID:39	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:1;1;1	Label:1
+Solid	Name:Calque d'effets 3	ID:41	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:1;1;1	Label:1
+Solid	Name:Calque d'effets 4	ID:43	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:1;1;1	Label:1
+Solid	Name:Calque d'effets 7	ID:50	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:1;1;1	Label:1
+Solid	Name:Calque d'effets 9	ID:209	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:1;1;1	Label:1
+Solid	Name:Calque d'effets 11	ID:238	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:1;1;1	Label:1
+Solid	Name:Calque d'effets 12	ID:240	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:1;1;1	Label:1
+Solid	Name:Calque d'effets 13	ID:242	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:1;1;1	Label:1
+Solid	Name:Calque d'effets 14	ID:272	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:1;1;1	Label:1
+Solid	Name:Glow Texture	ID:61	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:0;0;0	Label:1
+Solid	Name:Noir uni 1	ID:205	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:0;0;0	Label:1
+Solid	Name:Organique	ID:207	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:0;0;0	Label:1
+Solid	Name:Source	ID:35	FolderID:34	Width:1920	Height:1080	Aspect:1														Color:1;1;1	Label:1
+Layer Section	42
+Layer	Name:Craft Light		CompID:75	Type:Text	Video:1					AutoOrient:NONE									Blend:NORMAL				startTime:0	inPoint:0	outPoint:30			BoxText:1170;450		Label:1
+Layer	Name:Particule	ID:345	CompID:75	Type:Solid	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:1
+Layer	Name:FLARE	ID:63	CompID:75	Type:Comp	Video:1					AutoOrient:NONE									Blend:SCREEN			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Control Particule	ID:347	CompID:75	Type:Null	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:1
+Layer	Name:Calque de forme 1		CompID:247	Type:Shape	Video:1					AutoOrient:NONE									Blend:NORMAL				startTime:0	inPoint:0	outPoint:30				Label:8
+Layer	Name:Iris Solo	ID:113	CompID:63	Type:Comp	Video:1					AutoOrient:NONE									Blend:ADD			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Multi-iris Ensemble	ID:157	CompID:63	Type:Comp	Video:1					AutoOrient:NONE									Blend:ADD			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Glow	ID:23	CompID:63	Type:Comp	Video:1					AutoOrient:NONE									Blend:ADD			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Hoop	ID:226	CompID:63	Type:Comp	Video:1					AutoOrient:NONE									Blend:ADD			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Scintillement	ID:272	CompID:63	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Glow Texture	ID:61	CompID:23	Type:Solid	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:1
+Layer	Name:Source	ID:35	CompID:23	Type:Solid	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:1
+Layer	Name:Ring	ID:35	CompID:23	Type:Solid	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:1
+Layer	Name:Sparkle		CompID:23	Type:Shape	Video:1					AutoOrient:NONE									Blend:NORMAL				startTime:0	inPoint:0	outPoint:30				Label:8
+Layer	Name:Lueur	ID:37	CompID:23	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Couleur	ID:39	CompID:23	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:SCREEN			UsedIn:4	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Couleur Boost	ID:41	CompID:23	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Compact	ID:43	CompID:23	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Streak	ID:50	CompID:23	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:SCREEN			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Poussière	ID:276	CompID:23	Type:Footage	Video:1					AutoOrient:NONE									Blend:SCREEN			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Hoop : Texture	ID:194	CompID:226	Type:Comp	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Amélioration Couleur	ID:238	CompID:226	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Dispersion lumière	ID:240	CompID:226	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Déformation Optique	ID:242	CompID:226	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Couleur	ID:39	CompID:226	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:SCREEN			UsedIn:4	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Texture	ID:205	CompID:194	Type:Solid	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:1
+Layer	Name:Organique	ID:207	CompID:194	Type:Solid	Video:1					AutoOrient:NONE									Blend:SILHOUETTE_LUMA			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:1
+Layer	Name:Cercle	ID:209	CompID:194	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Texture Iris Solo		CompID:113	Type:Shape	Video:1					AutoOrient:NONE									Blend:NORMAL				startTime:0	inPoint:0	outPoint:30				Label:8
+Layer	Name:Couleur	ID:39	CompID:113	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:NORMAL			UsedIn:4	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Texture Iris Solo		CompID:168	Type:Shape	Video:1					AutoOrient:NONE									Blend:NORMAL				startTime:0	inPoint:0	outPoint:30				Label:8
+Layer	Name:Couleur	ID:39	CompID:168	Type:Solid	Video:1					AutoOrient:NONE				Adjust:1					Blend:NORMAL			UsedIn:4	startTime:0	inPoint:0	outPoint:30				Label:5
+Layer	Name:Multi-iris	ID:168	CompID:157	Type:Comp	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Multi-iris	ID:168	CompID:157	Type:Comp	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Multi-iris	ID:168	CompID:157	Type:Comp	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Multi-iris	ID:168	CompID:157	Type:Comp	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Multi-iris	ID:168	CompID:157	Type:Comp	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Multi-iris	ID:168	CompID:157	Type:Comp	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Multi-iris	ID:168	CompID:157	Type:Comp	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Multi-iris	ID:168	CompID:157	Type:Comp	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Multi-iris	ID:168	CompID:157	Type:Comp	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Layer	Name:Multi-iris	ID:168	CompID:157	Type:Comp	Video:1					AutoOrient:NONE									Blend:NORMAL			UsedIn:1	startTime:0	inPoint:0	outPoint:30				Label:15
+Values		Layer:1	CompID:75																PropName:Position	Property:ADBE Transform Group|ADBE Position					Values:-228;1156|2044;10	Times:0|3	Interp:1;L;L:ITE;0;16.666666667:OTE;848.220359209667;16.666666667:SAB;1:SC;1:IST;-378.666656494141;191;0:OST;378.666656494141;-191;0:ROV;0|2;L;L:ITE;848.220359209667;16.666666667:OTE;0;16.666666667:SAB;1:SC;1:IST;-378.666656494141;191;0:OST;378.666656494141;-191;0:ROV;0
+Effect	Name:FLARE : position XY	Layer:2	CompID:75			MatchName:ADBE Point Control
+Values		Layer:2	CompID:75																PropName:FLARE : position XY|Ponctuelle	Property:ADBE Effect Parade|1|ADBE Point Control-0001	Values:942.828277587891;612.757568359375	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:FLARE : centre XY	Layer:2	CompID:75			MatchName:ADBE Point Control
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|2|ADBE Effect Built In Params
+Effect	Name:FLARE : couleur	Layer:2	CompID:75			MatchName:ADBE Color Control
+Values		Layer:2	CompID:75																PropName:FLARE : couleur|Couleur	Property:ADBE Effect Parade|3|ADBE Color Control-0001	Values:0;0.47529450058937;1	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|3|ADBE Effect Built In Params
+Effect	Name:FLARE : couleur automatique	Layer:2	CompID:75			MatchName:ADBE Checkbox Control
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|4|ADBE Effect Built In Params
+Effect	Name:FLARE : couleur ciblé	Layer:2	CompID:75			MatchName:ADBE Layer Control
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|5|ADBE Effect Built In Params
+Effect	Name:FLARE : luminosité	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|6|ADBE Effect Built In Params
+Effect	Name:FLARE : taille	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Values		Layer:2	CompID:75																PropName:FLARE : taille|Curseur	Property:ADBE Effect Parade|7|ADBE Slider Control-0001	Values:21.9437037271701	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|7|ADBE Effect Built In Params
+Effect	Name:FLARE : compact	Layer:2	CompID:75			MatchName:ADBE Checkbox Control
+Values		Layer:2	CompID:75																PropName:FLARE : compact|Case	Property:ADBE Effect Parade|8|ADBE Checkbox Control-0001	Values:1	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|8|ADBE Effect Built In Params
+Effect	Name:TEXTURE GLOW : afficher	Layer:2	CompID:75			MatchName:ADBE Checkbox Control
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|9|ADBE Effect Built In Params
+Effect	Name:TEXTURE GLOW : intensité	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Values		Layer:2	CompID:75																PropName:TEXTURE GLOW : intensité|Curseur	Property:ADBE Effect Parade|10|ADBE Slider Control-0001	Values:20	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|10|ADBE Effect Built In Params
+Effect	Name:RING : afficher	Layer:2	CompID:75			MatchName:ADBE Checkbox Control
+Values		Layer:2	CompID:75																PropName:RING : afficher|Case	Property:ADBE Effect Parade|11|ADBE Checkbox Control-0001	Values:1	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|11|ADBE Effect Built In Params
+Effect	Name:STREAK : afficher	Layer:2	CompID:75			MatchName:ADBE Checkbox Control
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|12|ADBE Effect Built In Params
+Effect	Name:STREAK : luminosité	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Values		Layer:2	CompID:75																PropName:STREAK : luminosité|Curseur	Property:ADBE Effect Parade|13|ADBE Slider Control-0001	Values:100	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|13|ADBE Effect Built In Params
+Effect	Name:SPARKLE : afficher	Layer:2	CompID:75			MatchName:ADBE Checkbox Control
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|14|ADBE Effect Built In Params
+Effect	Name:SPARKLE : luminosité	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Values		Layer:2	CompID:75																PropName:SPARKLE : luminosité|Curseur	Property:ADBE Effect Parade|15|ADBE Slider Control-0001	Values:100	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|15|ADBE Effect Built In Params
+Effect	Name:SPARKLE : points	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Values		Layer:2	CompID:75																PropName:SPARKLE : points|Curseur	Property:ADBE Effect Parade|16|ADBE Slider Control-0001	Values:6	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|16|ADBE Effect Built In Params
+Effect	Name:SPARKLE : rayon interne	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Values		Layer:2	CompID:75																PropName:SPARKLE : rayon interne|Curseur	Property:ADBE Effect Parade|17|ADBE Slider Control-0001	Values:10	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|17|ADBE Effect Built In Params
+Effect	Name:SPARKLE : rayon externe	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Values		Layer:2	CompID:75																PropName:SPARKLE : rayon externe|Curseur	Property:ADBE Effect Parade|18|ADBE Slider Control-0001	Values:300	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|18|ADBE Effect Built In Params
+Effect	Name:SPARKLE : anamorphique	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Values		Layer:2	CompID:75																PropName:SPARKLE : anamorphique|Curseur	Property:ADBE Effect Parade|19|ADBE Slider Control-0001	Values:100	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|19|ADBE Effect Built In Params
+Effect	Name:SPARKLE : rotation automatique	Layer:2	CompID:75			MatchName:ADBE Checkbox Control
+Values		Layer:2	CompID:75																PropName:SPARKLE : rotation automatique|Case	Property:ADBE Effect Parade|20|ADBE Checkbox Control-0001	Values:1	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|20|ADBE Effect Built In Params
+Effect	Name:SPARKLE : rotation	Layer:2	CompID:75			MatchName:ADBE Angle Control
+Values		Layer:2	CompID:75																PropName:SPARKLE : rotation|Angle	Property:ADBE Effect Parade|21|ADBE Angle Control-0001	Values:86.56	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|21|ADBE Effect Built In Params
+Effect	Name:IRIS : afficher	Layer:2	CompID:75			MatchName:ADBE Checkbox Control
+Values		Layer:2	CompID:75																PropName:IRIS : afficher|Case	Property:ADBE Effect Parade|22|ADBE Checkbox Control-0001	Values:1	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|22|ADBE Effect Built In Params
+Effect	Name:MULTI-IRIS : afficher	Layer:2	CompID:75			MatchName:ADBE Checkbox Control
+Values		Layer:2	CompID:75																PropName:MULTI-IRIS : afficher|Case	Property:ADBE Effect Parade|23|ADBE Checkbox Control-0001	Values:1	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|23|ADBE Effect Built In Params
+Effect	Name:IRIS : luminosité	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Values		Layer:2	CompID:75																PropName:IRIS : luminosité|Curseur	Property:ADBE Effect Parade|24|ADBE Slider Control-0001	Values:4	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|24|ADBE Effect Built In Params
+Effect	Name:IRIS : anamorphique	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Values		Layer:2	CompID:75																PropName:IRIS : anamorphique|Curseur	Property:ADBE Effect Parade|25|ADBE Slider Control-0001	Values:100	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|25|ADBE Effect Built In Params
+Effect	Name:HOOP : afficher	Layer:2	CompID:75			MatchName:ADBE Checkbox Control
+Values		Layer:2	CompID:75																PropName:HOOP : afficher|Case	Property:ADBE Effect Parade|26|ADBE Checkbox Control-0001	Values:1	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|26|ADBE Effect Built In Params
+Effect	Name:HOOP : luminosité	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Values		Layer:2	CompID:75																PropName:HOOP : luminosité|Curseur	Property:ADBE Effect Parade|27|ADBE Slider Control-0001	Values:40	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|27|ADBE Effect Built In Params
+Effect	Name:SCINTILLEMENT fréquence	Layer:2	CompID:75			MatchName:ADBE Slider Control
+Values		Layer:2	CompID:75																PropName:SCINTILLEMENT fréquence|Curseur	Property:ADBE Effect Parade|28|ADBE Slider Control-0001	Values:5	
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|28|ADBE Effect Built In Params
+Effect	Name:POUSSIERE : afficher	Layer:2	CompID:75			MatchName:ADBE Checkbox Control
+Property Group	Name:Options de composition	Layer:2	CompID:75																	Property:ADBE Effect Parade|29|ADBE Effect Built In Params
+Values		Layer:2	CompID:75																PropName:Echelle	Property:ADBE Transform Group|ADBE Scale	Values:100;100	
+Effect	Name:CC Particle Systems II	Layer:3	CompID:75			MatchName:CC Particle Systems II
+Values		Layer:3	CompID:75																PropName:CC Particle Systems II|Position	Property:ADBE Effect Parade|1|CC Particle Systems II-0004	Values:960;540	
+Values		Layer:3	CompID:75																PropName:CC Particle Systems II|Radius X	Property:ADBE Effect Parade|1|CC Particle Systems II-0005	Values:0	
+Values		Layer:3	CompID:75																PropName:CC Particle Systems II|Radius Y	Property:ADBE Effect Parade|1|CC Particle Systems II-0006	Values:0	
+Values		Layer:3	CompID:75																PropName:CC Particle Systems II|Animation	Property:ADBE Effect Parade|1|CC Particle Systems II-0009	Values:9	
+Values		Layer:3	CompID:75																PropName:CC Particle Systems II|Velocity	Property:ADBE Effect Parade|1|CC Particle Systems II-0010	Values:0.1	
+Values		Layer:3	CompID:75																PropName:CC Particle Systems II|Gravity	Property:ADBE Effect Parade|1|CC Particle Systems II-0012	Values:0.5	
+Values		Layer:3	CompID:75																PropName:CC Particle Systems II|Extra	Property:ADBE Effect Parade|1|CC Particle Systems II-0015					Values:0.21|2.7	Times:0|3	Interp:1;L;L:ITE;0;16.666666667:OTE;0.83;16.666666667|2;L;L:ITE;0.83;16.666666667:OTE;0;16.666666667
+Values		Layer:3	CompID:75																PropName:CC Particle Systems II|Particle Type	Property:ADBE Effect Parade|1|CC Particle Systems II-0018	Values:10	
+Values		Layer:3	CompID:75																PropName:CC Particle Systems II|Birth Color	Property:ADBE Effect Parade|1|CC Particle Systems II-0025	Values:0;0.27757304906845;0.66274511814117	
+Values		Layer:3	CompID:75																PropName:CC Particle Systems II|Death Color	Property:ADBE Effect Parade|1|CC Particle Systems II-0026	Values:0.7843137383461;0.0627451017499;0.72149467468262	
+Property Group	Name:Options de composition	Layer:3	CompID:75																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Text		Layer:4	CompID:75		Font:Cone	FontSize:200	Fill:1	Stroke:1	StrokeOverFill:1	Justify:LEFT	FillColor:1;1;1	StrokeColor:1;1;1	StrokeWidth:1						Values:Craft Light		
+Values		Layer:4	CompID:75																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:1175.20727539063;688.501831054688	
+Property Group	Name:Ellipse 1	Layer:1	CompID:247	Enabled:1																Property:ADBE Root Vectors Group|ADBE Vector Group
+Property Group	Name:Tracé d'ellipse 1	Layer:1	CompID:247	Enabled:1																Property:ADBE Root Vectors Group|1|ADBE Vectors Group|ADBE Vector Shape - Ellipse
+Values		Layer:1	CompID:247																PropName:Taille	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Ellipse Size	Values:188.171783544898;188.171783544898	
+Property Group	Name:Contour 1	Layer:1	CompID:247	Enabled:0																Property:ADBE Root Vectors Group|1|ADBE Vectors Group|ADBE Vector Graphic - Stroke
+Values		Layer:1	CompID:247																PropName:Largeur du contour	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|2|ADBE Vector Stroke Width	Values:50	
+Property Group	Name:Fond 1	Layer:1	CompID:247	Enabled:1																Property:ADBE Root Vectors Group|1|ADBE Vectors Group|ADBE Vector Graphic - Fill
+Values		Layer:1	CompID:247																PropName:Couleur	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|3|ADBE Vector Fill Color	Values:1;1;1	
+Values		Layer:1	CompID:247																PropName:Position	Property:ADBE Root Vectors Group|1|ADBE Vector Transform Group|ADBE Vector Position	Values:-103.950900211238;1.9877427455163	
+Property Group	Name:Options Surface	Layer:1	CompID:247																	Property:ADBE Root Vectors Group|1|ADBE Vector Materials Group
+Values		Layer:1	CompID:247																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Effect	Name:Exposition	Layer:1	CompID:63			MatchName:ADBE Exposure2
+Values		Layer:1	CompID:63																PropName:Exposition|Exposition	Property:ADBE Effect Parade|1|ADBE Exposure2-0003	Values:0.1	
+Property Group	Name:Options de composition	Layer:1	CompID:63																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Values		Layer:2	CompID:63																PropName:Opacité	Property:ADBE Transform Group|ADBE Opacity	Values:100	
+Effect	Name:Exposition	Layer:3	CompID:63			MatchName:ADBE Exposure2
+Values		Layer:3	CompID:63																PropName:Exposition|Exposition	Property:ADBE Effect Parade|1|ADBE Exposure2-0003	Values:0	
+Property Group	Name:Options de composition	Layer:3	CompID:63																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Values		Layer:4	CompID:63																PropName:Opacité	Property:ADBE Transform Group|ADBE Opacity	Values:100	
+Values		Layer:5	CompID:63																PropName:Opacité	Property:ADBE Transform Group|ADBE Opacity	Values:100	
+Effect	Name:Cercle	Layer:1	CompID:23			MatchName:ADBE Circle
+Values		Layer:1	CompID:23																PropName:Cercle|Centre	Property:ADBE Effect Parade|1|ADBE Circle-0001	Values:960;540	
+Values		Layer:1	CompID:23																PropName:Cercle|Rayon	Property:ADBE Effect Parade|1|ADBE Circle-0002	Values:400	
+Values		Layer:1	CompID:23																PropName:Cercle|Contour progressif intérieur	Property:ADBE Effect Parade|1|ADBE Circle-0006	Values:200	
+Values		Layer:1	CompID:23																PropName:Cercle|Mode de transfert	Property:ADBE Effect Parade|1|ADBE Circle-0012	Values:3	
+Property Group	Name:Options de composition	Layer:1	CompID:23																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Values		Layer:1	CompID:23																PropName:Opacité	Property:ADBE Transform Group|ADBE Opacity	Values:100	
+Effect	Name:CC Light Sweep	Layer:2	CompID:23			MatchName:CC Light Sweep
+Values		Layer:2	CompID:23																PropName:CC Light Sweep|Center	Property:ADBE Effect Parade|1|CC Light Sweep-0001	Values:960;540	
+Values		Layer:2	CompID:23																PropName:CC Light Sweep|Direction	Property:ADBE Effect Parade|1|CC Light Sweep-0002	Values:90	
+Values		Layer:2	CompID:23																PropName:CC Light Sweep|Width	Property:ADBE Effect Parade|1|CC Light Sweep-0004	Values:100	
+Values		Layer:2	CompID:23																PropName:CC Light Sweep|Sweep Intensity	Property:ADBE Effect Parade|1|CC Light Sweep-0005	Values:100	
+Values		Layer:2	CompID:23																PropName:CC Light Sweep|Light Color	Property:ADBE Effect Parade|1|CC Light Sweep-0008	Values:1;0.98039215686275;0.94117647058824	
+Values		Layer:2	CompID:23																PropName:CC Light Sweep|Light Reception	Property:ADBE Effect Parade|1|CC Light Sweep-0009	Values:2	
+Property Group	Name:Options de composition	Layer:2	CompID:23																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Values		Layer:2	CompID:23																PropName:Opacité	Property:ADBE Transform Group|ADBE Opacity	Values:100	
+Effect	Name:CC Vignette	Layer:3	CompID:23			MatchName:CS Vignette
+Values		Layer:3	CompID:23																PropName:CC Vignette|Angle of View	Property:ADBE Effect Parade|1|CS Vignette-0002	Values:100	
+Values		Layer:3	CompID:23																PropName:CC Vignette|Center	Property:ADBE Effect Parade|1|CS Vignette-0003	Values:960;540	
+Property Group	Name:Options de composition	Layer:3	CompID:23																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Values		Layer:3	CompID:23																PropName:Opacité	Property:ADBE Transform Group|ADBE Opacity	Values:100	
+Effect	Name:Vibrance	Layer:4	CompID:23			MatchName:ADBE Vibrance
+Values		Layer:4	CompID:23																PropName:Vibrance|Vibrance	Property:ADBE Effect Parade|1|ADBE Vibrance-0001	Values:100	
+Values		Layer:4	CompID:23																PropName:Vibrance|Saturation	Property:ADBE Effect Parade|1|ADBE Vibrance-0002	Values:100	
+Property Group	Name:Options de composition	Layer:4	CompID:23																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:Courbes	Layer:4	CompID:23			MatchName:ADBE CurvesCustom
+Property Group	Name:Options de composition	Layer:4	CompID:23																	Property:ADBE Effect Parade|2|ADBE Effect Built In Params
+Effect	Name:Teinte	Layer:5	CompID:23			MatchName:ADBE Tint
+Values		Layer:5	CompID:23																PropName:Teinte|Claire	Property:ADBE Effect Parade|1|ADBE Tint-0002	Values:1;0.55058741569519;0	
+Property Group	Name:Options de composition	Layer:5	CompID:23																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:CC Radial Fast Blur	Layer:6	CompID:23			MatchName:CC Radial Fast Blur
+Values		Layer:6	CompID:23																PropName:CC Radial Fast Blur|Center	Property:ADBE Effect Parade|1|CC Radial Fast Blur-0001	Values:1254;540	
+Values		Layer:6	CompID:23																PropName:CC Radial Fast Blur|Amount	Property:ADBE Effect Parade|1|CC Radial Fast Blur-0002	Values:100	
+Property Group	Name:Options de composition	Layer:6	CompID:23																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Property Group	Name:Polyétoile 2	Layer:7	CompID:23	Enabled:1																Property:ADBE Root Vectors Group|ADBE Vector Group
+Property Group	Name:Tracé polyétoile 1	Layer:7	CompID:23	Enabled:1																Property:ADBE Root Vectors Group|1|ADBE Vectors Group|ADBE Vector Shape - Star
+Values		Layer:7	CompID:23																PropName:Points	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Star Points	Values:16	
+Values		Layer:7	CompID:23																PropName:Rayon interne	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Star Inner Radius	Values:3	
+Values		Layer:7	CompID:23																PropName:Rayon externe	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Star Outer Radius	Values:200	
+Values		Layer:7	CompID:23																PropName:Arrondi interne	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Star Inner Roundess	Values:200	
+Property Group	Name:Contour 1	Layer:7	CompID:23	Enabled:0																Property:ADBE Root Vectors Group|1|ADBE Vectors Group|ADBE Vector Graphic - Stroke
+Values		Layer:7	CompID:23																PropName:Largeur du contour	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|2|ADBE Vector Stroke Width	Values:50	
+Property Group	Name:Fond 1	Layer:7	CompID:23	Enabled:1																Property:ADBE Root Vectors Group|1|ADBE Vectors Group|ADBE Vector Graphic - Fill
+Values		Layer:7	CompID:23																PropName:Couleur	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|3|ADBE Vector Fill Color	Values:1;1;1	
+Property Group	Name:Options Surface	Layer:7	CompID:23																	Property:ADBE Root Vectors Group|1|ADBE Vector Materials Group
+Property Group	Name:Polyétoile 1	Layer:7	CompID:23	Enabled:1																Property:ADBE Root Vectors Group|ADBE Vector Group
+Property Group	Name:Tracé polyétoile 1	Layer:7	CompID:23	Enabled:1																Property:ADBE Root Vectors Group|2|ADBE Vectors Group|ADBE Vector Shape - Star
+Values		Layer:7	CompID:23																PropName:Points	Property:ADBE Root Vectors Group|2|ADBE Vectors Group|1|ADBE Vector Star Points	Values:6	
+Values		Layer:7	CompID:23																PropName:Rayon interne	Property:ADBE Root Vectors Group|2|ADBE Vectors Group|1|ADBE Vector Star Inner Radius	Values:30	
+Values		Layer:7	CompID:23																PropName:Rayon externe	Property:ADBE Root Vectors Group|2|ADBE Vectors Group|1|ADBE Vector Star Outer Radius	Values:200	
+Values		Layer:7	CompID:23																PropName:Arrondi interne	Property:ADBE Root Vectors Group|2|ADBE Vectors Group|1|ADBE Vector Star Inner Roundess	Values:200	
+Property Group	Name:Contour 1	Layer:7	CompID:23	Enabled:0																Property:ADBE Root Vectors Group|2|ADBE Vectors Group|ADBE Vector Graphic - Stroke
+Values		Layer:7	CompID:23																PropName:Largeur du contour	Property:ADBE Root Vectors Group|2|ADBE Vectors Group|2|ADBE Vector Stroke Width	Values:50	
+Property Group	Name:Fond 1	Layer:7	CompID:23	Enabled:1																Property:ADBE Root Vectors Group|2|ADBE Vectors Group|ADBE Vector Graphic - Fill
+Values		Layer:7	CompID:23																PropName:Couleur	Property:ADBE Root Vectors Group|2|ADBE Vectors Group|3|ADBE Vector Fill Color	Values:1;1;1	
+Values		Layer:7	CompID:23																PropName:Rotation	Property:ADBE Root Vectors Group|2|ADBE Vector Transform Group|ADBE Vector Rotation	Values:0	
+Property Group	Name:Options Surface	Layer:7	CompID:23																	Property:ADBE Root Vectors Group|2|ADBE Vector Materials Group
+Values		Layer:7	CompID:23																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:7	CompID:23																PropName:Echelle	Property:ADBE Transform Group|ADBE Scale	Values:100;100	
+Values		Layer:7	CompID:23																PropName:Opacité	Property:ADBE Transform Group|ADBE Opacity	Values:100	
+Effect	Name:Cercle	Layer:8	CompID:23			MatchName:ADBE Circle
+Values		Layer:8	CompID:23																PropName:Cercle|Centre	Property:ADBE Effect Parade|1|ADBE Circle-0001	Values:960;540	
+Values		Layer:8	CompID:23																PropName:Cercle|Rayon	Property:ADBE Effect Parade|1|ADBE Circle-0002	Values:75	
+Values		Layer:8	CompID:23																PropName:Cercle|Contour	Property:ADBE Effect Parade|1|ADBE Circle-0003	Values:2	
+Values		Layer:8	CompID:23																PropName:Cercle|Curseur contextuel	Property:ADBE Effect Parade|1|ADBE Circle-0004	Values:75	
+Values		Layer:8	CompID:23																PropName:Cercle|Contour progressif intérieur	Property:ADBE Effect Parade|1|ADBE Circle-0006	Values:3	
+Values		Layer:8	CompID:23																PropName:Cercle|Contour progressif extérieur	Property:ADBE Effect Parade|1|ADBE Circle-0007	Values:100	
+Property Group	Name:Options de composition	Layer:8	CompID:23																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Values		Layer:8	CompID:23																PropName:Opacité	Property:ADBE Transform Group|ADBE Opacity	Values:100	
+Effect	Name:Cercle	Layer:9	CompID:23			MatchName:ADBE Circle
+Values		Layer:9	CompID:23																PropName:Cercle|Centre	Property:ADBE Effect Parade|1|ADBE Circle-0001	Values:960;540	
+Values		Layer:9	CompID:23																PropName:Cercle|Rayon	Property:ADBE Effect Parade|1|ADBE Circle-0002	Values:30	
+Values		Layer:9	CompID:23																PropName:Cercle|Contour progressif intérieur	Property:ADBE Effect Parade|1|ADBE Circle-0006	Values:1	
+Property Group	Name:Options de composition	Layer:9	CompID:23																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:Bruit de turbulence	Layer:10	CompID:23			MatchName:ADBE AIF Perlin Noise 3D
+Values		Layer:10	CompID:23																PropName:Bruit de turbulence|Type fractal	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0001	Values:14	
+Values		Layer:10	CompID:23																PropName:Bruit de turbulence|Type de bruit	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0002	Values:4	
+Values		Layer:10	CompID:23																PropName:Bruit de turbulence|Contraste	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0004	Values:500	
+Values		Layer:10	CompID:23																PropName:Bruit de turbulence|Luminosité	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0005	Values:-50	
+Values		Layer:10	CompID:23																PropName:Bruit de turbulence|Echelle	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0010	Values:20	
+Values		Layer:10	CompID:23																PropName:Bruit de turbulence|Décalage de turbulence	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0013	Values:960;540	
+Property Group	Name:Options de composition	Layer:10	CompID:23																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:Cercle	Layer:10	CompID:23			MatchName:ADBE Circle
+Values		Layer:10	CompID:23																PropName:Cercle|Centre	Property:ADBE Effect Parade|2|ADBE Circle-0001	Values:949;548	
+Values		Layer:10	CompID:23																PropName:Cercle|Rayon	Property:ADBE Effect Parade|2|ADBE Circle-0002	Values:100	
+Values		Layer:10	CompID:23																PropName:Cercle|Contour	Property:ADBE Effect Parade|2|ADBE Circle-0003	Values:2	
+Values		Layer:10	CompID:23																PropName:Cercle|Curseur contextuel	Property:ADBE Effect Parade|2|ADBE Circle-0004	Values:20	
+Values		Layer:10	CompID:23																PropName:Cercle|Contour progressif intérieur	Property:ADBE Effect Parade|2|ADBE Circle-0006	Values:100	
+Values		Layer:10	CompID:23																PropName:Cercle|Contour progressif extérieur	Property:ADBE Effect Parade|2|ADBE Circle-0007	Values:100	
+Values		Layer:10	CompID:23																PropName:Cercle|Mode de transfert	Property:ADBE Effect Parade|2|ADBE Circle-0012	Values:3	
+Property Group	Name:Options de composition	Layer:10	CompID:23																	Property:ADBE Effect Parade|2|ADBE Effect Built In Params
+Effect	Name:Teinte	Layer:1	CompID:226			MatchName:ADBE Tint
+Values		Layer:1	CompID:226																PropName:Teinte|Claire	Property:ADBE Effect Parade|1|ADBE Tint-0002	Values:1;0.55058741569519;0	
+Property Group	Name:Options de composition	Layer:1	CompID:226																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:Compensation optique	Layer:2	CompID:226			MatchName:ADBE Optics Compensation
+Values		Layer:2	CompID:226																PropName:Compensation optique|Angle d'ouverture (FOV)	Property:ADBE Effect Parade|1|ADBE Optics Compensation-0001	Values:50	
+Values		Layer:2	CompID:226																PropName:Compensation optique|Inverser la déformation de la lentille	Property:ADBE Effect Parade|1|ADBE Optics Compensation-0002	Values:1	
+Property Group	Name:Options de composition	Layer:2	CompID:226																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:CC Light Burst 2.5	Layer:3	CompID:226			MatchName:CC Light Burst 2.5
+Values		Layer:3	CompID:226																PropName:CC Light Burst 2.5|Center	Property:ADBE Effect Parade|1|CC Light Burst 2.5-0001	Values:943;540	
+Values		Layer:3	CompID:226																PropName:CC Light Burst 2.5|Ray Length	Property:ADBE Effect Parade|1|CC Light Burst 2.5-0003	Values:180	
+Property Group	Name:Options de composition	Layer:3	CompID:226																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:Teinte	Layer:4	CompID:226			MatchName:ADBE Tint
+Values		Layer:4	CompID:226																PropName:Teinte|Foncée	Property:ADBE Effect Parade|1|ADBE Tint-0001	Values:0;0.02352941176471;1	
+Values		Layer:4	CompID:226																PropName:Teinte|Claire	Property:ADBE Effect Parade|1|ADBE Tint-0002	Values:1;0;0	
+Values		Layer:4	CompID:226																PropName:Teinte|Facteur	Property:ADBE Effect Parade|1|ADBE Tint-0003	Values:40	
+Property Group	Name:Options de composition	Layer:4	CompID:226																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:CC Cylinder	Layer:1	CompID:194			MatchName:CC Cylinder
+Values		Layer:1	CompID:194																PropName:CC Cylinder|Radius (%)	Property:ADBE Effect Parade|1|CC Cylinder-0002	Values:200	
+Values		Layer:1	CompID:194																PropName:CC Cylinder|Position X	Property:ADBE Effect Parade|1|CC Cylinder-0004	Values:0	
+Values		Layer:1	CompID:194																PropName:CC Cylinder|Position Y	Property:ADBE Effect Parade|1|CC Cylinder-0005	Values:0	
+Values		Layer:1	CompID:194																PropName:CC Cylinder|Rotation X	Property:ADBE Effect Parade|1|CC Cylinder-0009	Values:90	
+Values		Layer:1	CompID:194																PropName:CC Cylinder|Render	Property:ADBE Effect Parade|1|CC Cylinder-0013	Values:3	
+Values		Layer:1	CompID:194																PropName:CC Cylinder|Light Intensity	Property:ADBE Effect Parade|1|CC Cylinder-0015	Values:0	
+Values		Layer:1	CompID:194																PropName:CC Cylinder|Light Direction	Property:ADBE Effect Parade|1|CC Cylinder-0018	Values:590	
+Property Group	Name:Options de composition	Layer:1	CompID:194																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:Bruit de turbulence	Layer:2	CompID:194			MatchName:ADBE AIF Perlin Noise 3D
+Values		Layer:2	CompID:194																PropName:Bruit de turbulence|Type fractal	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0001	Values:5	
+Values		Layer:2	CompID:194																PropName:Bruit de turbulence|Contraste	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0004	Values:120	
+Values		Layer:2	CompID:194																PropName:Bruit de turbulence|Luminosité	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0005	Values:-50	
+Values		Layer:2	CompID:194																PropName:Bruit de turbulence|Echelle uniforme	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0009	Values:0	
+Values		Layer:2	CompID:194																PropName:Bruit de turbulence|Largeur d'échelle	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0011	Values:10	
+Values		Layer:2	CompID:194																PropName:Bruit de turbulence|Hauteur d'échelle	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0012	Values:600	
+Property Group	Name:Options de composition	Layer:2	CompID:194																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:Gamme des dégradés	Layer:3	CompID:194			MatchName:ADBE Ramp
+Values		Layer:3	CompID:194																PropName:Gamme des dégradés|Couleur de départ	Property:ADBE Effect Parade|1|ADBE Ramp-0002	Values:1;1;1	
+Values		Layer:3	CompID:194																PropName:Gamme des dégradés|Couleur d'arrivée	Property:ADBE Effect Parade|1|ADBE Ramp-0004	Values:0;0;0	
+Property Group	Name:Options de composition	Layer:3	CompID:194																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:Colorama	Layer:3	CompID:194			MatchName:APC Colorama
+Values		Layer:3	CompID:194																PropName:Colorama|Changement de phase	Property:ADBE Effect Parade|2|APC Colorama-0008	Values:-90	
+Property Group	Name:Options de composition	Layer:3	CompID:194																	Property:ADBE Effect Parade|2|ADBE Effect Built In Params
+Effect	Name:CC Griddler	Layer:3	CompID:194			MatchName:CC Griddler
+Values		Layer:3	CompID:194																PropName:CC Griddler|Horizontal Scale	Property:ADBE Effect Parade|3|CC Griddler-0001	Values:70	
+Values		Layer:3	CompID:194																PropName:CC Griddler|Tile Size	Property:ADBE Effect Parade|3|CC Griddler-0003	Values:1	
+Property Group	Name:Options de composition	Layer:3	CompID:194																	Property:ADBE Effect Parade|3|ADBE Effect Built In Params
+Effect	Name:Flou directionnel	Layer:3	CompID:194			MatchName:ADBE Motion Blur
+Values		Layer:3	CompID:194																PropName:Flou directionnel|Angle	Property:ADBE Effect Parade|4|ADBE Motion Blur-0001	Values:90	
+Values		Layer:3	CompID:194																PropName:Flou directionnel|Distance	Property:ADBE Effect Parade|4|ADBE Motion Blur-0002	Values:5	
+Property Group	Name:Options de composition	Layer:3	CompID:194																	Property:ADBE Effect Parade|4|ADBE Effect Built In Params
+Values		Layer:3	CompID:194																PropName:Opacité	Property:ADBE Transform Group|ADBE Opacity	Values:100	
+Effect	Name:Teinte	Layer:1	CompID:113			MatchName:ADBE Tint
+Values		Layer:1	CompID:113																PropName:Teinte|Claire	Property:ADBE Effect Parade|1|ADBE Tint-0002	Values:1;0.55058741569519;0	
+Property Group	Name:Options de composition	Layer:1	CompID:113																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Property Group	Name:Polyétoile 1	Layer:2	CompID:113	Enabled:1																Property:ADBE Root Vectors Group|ADBE Vector Group
+Property Group	Name:Tracé polyétoile 1	Layer:2	CompID:113	Enabled:1																Property:ADBE Root Vectors Group|1|ADBE Vectors Group|ADBE Vector Shape - Star
+Values		Layer:2	CompID:113																PropName:Type	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Star Type	Values:2	
+Values		Layer:2	CompID:113																PropName:Rotation	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Star Rotation	Values:180	
+Values		Layer:2	CompID:113																PropName:Rayon interne	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Star Inner Radius	Values:122.310090543131	
+Values		Layer:2	CompID:113																PropName:Rayon externe	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Star Outer Radius	Values:180	
+Property Group	Name:Contour 1	Layer:2	CompID:113	Enabled:0																Property:ADBE Root Vectors Group|1|ADBE Vectors Group|ADBE Vector Graphic - Stroke
+Values		Layer:2	CompID:113																PropName:Largeur du contour	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|2|ADBE Vector Stroke Width	Values:50	
+Property Group	Name:Fond 1	Layer:2	CompID:113	Enabled:1																Property:ADBE Root Vectors Group|1|ADBE Vectors Group|ADBE Vector Graphic - Fill
+Values		Layer:2	CompID:113																PropName:Couleur	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|3|ADBE Vector Fill Color	Values:1;1;1	
+Values		Layer:2	CompID:113																PropName:Echelle	Property:ADBE Root Vectors Group|1|ADBE Vector Transform Group|ADBE Vector Scale	Values:100;100	
+Property Group	Name:Options Surface	Layer:2	CompID:113																	Property:ADBE Root Vectors Group|1|ADBE Vector Materials Group
+Effect	Name:Bruit de turbulence	Layer:2	CompID:113			MatchName:ADBE AIF Perlin Noise 3D
+Values		Layer:2	CompID:113																PropName:Bruit de turbulence|Type de bruit	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0002	Values:4	
+Values		Layer:2	CompID:113																PropName:Bruit de turbulence|Contraste	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0004	Values:30	
+Values		Layer:2	CompID:113																PropName:Bruit de turbulence|Luminosité	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0005	Values:5	
+Values		Layer:2	CompID:113																PropName:Bruit de turbulence|Echelle uniforme	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0009	Values:0	
+Values		Layer:2	CompID:113																PropName:Bruit de turbulence|Largeur d'échelle	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0011	Values:200	
+Property Group	Name:Options de composition	Layer:2	CompID:113																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:Flou gaussien	Layer:2	CompID:113			MatchName:ADBE Gaussian Blur 2
+Values		Layer:2	CompID:113																PropName:Flou gaussien|Flou	Property:ADBE Effect Parade|2|ADBE Gaussian Blur 2-0001	Values:50	
+Property Group	Name:Options de composition	Layer:2	CompID:113																	Property:ADBE Effect Parade|2|ADBE Effect Built In Params
+Effect	Name:CC Burn Film	Layer:2	CompID:113			MatchName:CC Burn Film
+Values		Layer:2	CompID:113																PropName:CC Burn Film|Burn	Property:ADBE Effect Parade|3|CC Burn Film-0001	Values:30	
+Values		Layer:2	CompID:113																PropName:CC Burn Film|Center	Property:ADBE Effect Parade|3|CC Burn Film-0002	Values:960;540	
+Values		Layer:2	CompID:113																PropName:CC Burn Film|Random Seed	Property:ADBE Effect Parade|3|CC Burn Film-0003	Values:190	
+Property Group	Name:Options de composition	Layer:2	CompID:113																	Property:ADBE Effect Parade|3|ADBE Effect Built In Params
+Values		Layer:2	CompID:113																PropName:X Position	Property:ADBE Transform Group|ADBE Position_0	Values:960	
+Values		Layer:2	CompID:113																PropName:Y Position	Property:ADBE Transform Group|ADBE Position_1	Values:540	
+Values		Layer:2	CompID:113																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:2	CompID:113																PropName:Z Position	Property:ADBE Transform Group|ADBE Position_2	Values:0	
+Style	Name:Blending Options	CompID:113	Layer:2		MatchName:ADBE Blend Options Group
+Style	Name:Luminescence interne	CompID:113	Layer:2	On:1	MatchName:innerGlow/enabled
+Property Group	Name:Luminescence interne	Layer:2	CompID:113	Enabled:1																Property:ADBE Layer Styles|innerGlow/enabled
+Values		Layer:2	CompID:113																PropName:Couleur	Property:ADBE Layer Styles|innerGlow/enabled|innerGlow/color	Values:1;1;1	
+Values		Layer:2	CompID:113																PropName:Taille	Property:ADBE Layer Styles|innerGlow/enabled|innerGlow/blur	Values:0	
+Effect	Name:Teinte	Layer:1	CompID:168			MatchName:ADBE Tint
+Values		Layer:1	CompID:168																PropName:Teinte|Claire	Property:ADBE Effect Parade|1|ADBE Tint-0002	Values:1;0.55058741569519;0	
+Property Group	Name:Options de composition	Layer:1	CompID:168																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Property Group	Name:Polyétoile 1	Layer:2	CompID:168	Enabled:1																Property:ADBE Root Vectors Group|ADBE Vector Group
+Property Group	Name:Tracé polyétoile 1	Layer:2	CompID:168	Enabled:1																Property:ADBE Root Vectors Group|1|ADBE Vectors Group|ADBE Vector Shape - Star
+Values		Layer:2	CompID:168																PropName:Type	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Star Type	Values:2	
+Values		Layer:2	CompID:168																PropName:Rotation	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Star Rotation	Values:180	
+Values		Layer:2	CompID:168																PropName:Rayon interne	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Star Inner Radius	Values:122.310090543131	
+Values		Layer:2	CompID:168																PropName:Rayon externe	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|1|ADBE Vector Star Outer Radius	Values:180	
+Property Group	Name:Contour 1	Layer:2	CompID:168	Enabled:0																Property:ADBE Root Vectors Group|1|ADBE Vectors Group|ADBE Vector Graphic - Stroke
+Values		Layer:2	CompID:168																PropName:Largeur du contour	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|2|ADBE Vector Stroke Width	Values:50	
+Property Group	Name:Fond 1	Layer:2	CompID:168	Enabled:1																Property:ADBE Root Vectors Group|1|ADBE Vectors Group|ADBE Vector Graphic - Fill
+Values		Layer:2	CompID:168																PropName:Couleur	Property:ADBE Root Vectors Group|1|ADBE Vectors Group|3|ADBE Vector Fill Color	Values:1;1;1	
+Values		Layer:2	CompID:168																PropName:Echelle	Property:ADBE Root Vectors Group|1|ADBE Vector Transform Group|ADBE Vector Scale	Values:100;100	
+Property Group	Name:Options Surface	Layer:2	CompID:168																	Property:ADBE Root Vectors Group|1|ADBE Vector Materials Group
+Effect	Name:Bruit de turbulence	Layer:2	CompID:168			MatchName:ADBE AIF Perlin Noise 3D
+Values		Layer:2	CompID:168																PropName:Bruit de turbulence|Type de bruit	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0002	Values:4	
+Values		Layer:2	CompID:168																PropName:Bruit de turbulence|Contraste	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0004	Values:30	
+Values		Layer:2	CompID:168																PropName:Bruit de turbulence|Luminosité	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0005	Values:5	
+Values		Layer:2	CompID:168																PropName:Bruit de turbulence|Echelle uniforme	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0009	Values:0	
+Values		Layer:2	CompID:168																PropName:Bruit de turbulence|Largeur d'échelle	Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0011	Values:200	
+Property Group	Name:Options de composition	Layer:2	CompID:168																	Property:ADBE Effect Parade|1|ADBE Effect Built In Params
+Effect	Name:Flou gaussien	Layer:2	CompID:168			MatchName:ADBE Gaussian Blur 2
+Values		Layer:2	CompID:168																PropName:Flou gaussien|Flou	Property:ADBE Effect Parade|2|ADBE Gaussian Blur 2-0001	Values:50	
+Property Group	Name:Options de composition	Layer:2	CompID:168																	Property:ADBE Effect Parade|2|ADBE Effect Built In Params
+Effect	Name:CC Burn Film	Layer:2	CompID:168			MatchName:CC Burn Film
+Values		Layer:2	CompID:168																PropName:CC Burn Film|Burn	Property:ADBE Effect Parade|3|CC Burn Film-0001	Values:30	
+Values		Layer:2	CompID:168																PropName:CC Burn Film|Center	Property:ADBE Effect Parade|3|CC Burn Film-0002	Values:960;540	
+Values		Layer:2	CompID:168																PropName:CC Burn Film|Random Seed	Property:ADBE Effect Parade|3|CC Burn Film-0003	Values:190	
+Property Group	Name:Options de composition	Layer:2	CompID:168																	Property:ADBE Effect Parade|3|ADBE Effect Built In Params
+Values		Layer:2	CompID:168																PropName:X Position	Property:ADBE Transform Group|ADBE Position_0	Values:960	
+Values		Layer:2	CompID:168																PropName:Y Position	Property:ADBE Transform Group|ADBE Position_1	Values:540	
+Values		Layer:2	CompID:168																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:2	CompID:168																PropName:Z Position	Property:ADBE Transform Group|ADBE Position_2	Values:0	
+Style	Name:Blending Options	CompID:168	Layer:2		MatchName:ADBE Blend Options Group
+Style	Name:Luminescence interne	CompID:168	Layer:2	On:1	MatchName:innerGlow/enabled
+Property Group	Name:Luminescence interne	Layer:2	CompID:168	Enabled:1																Property:ADBE Layer Styles|innerGlow/enabled
+Values		Layer:2	CompID:168																PropName:Couleur	Property:ADBE Layer Styles|innerGlow/enabled|innerGlow/color	Values:1;1;1	
+Values		Layer:2	CompID:168																PropName:Taille	Property:ADBE Layer Styles|innerGlow/enabled|innerGlow/blur	Values:0	
+Values		Layer:1	CompID:157																PropName:X Position	Property:ADBE Transform Group|ADBE Position_0	Values:960	
+Values		Layer:1	CompID:157																PropName:Y Position	Property:ADBE Transform Group|ADBE Position_1	Values:540	
+Values		Layer:1	CompID:157																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:1	CompID:157																PropName:Z Position	Property:ADBE Transform Group|ADBE Position_2	Values:0	
+Values		Layer:1	CompID:157																PropName:Echelle	Property:ADBE Transform Group|ADBE Scale	Values:40;40	
+Values		Layer:2	CompID:157																PropName:X Position	Property:ADBE Transform Group|ADBE Position_0	Values:960	
+Values		Layer:2	CompID:157																PropName:Y Position	Property:ADBE Transform Group|ADBE Position_1	Values:540	
+Values		Layer:2	CompID:157																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:2	CompID:157																PropName:Z Position	Property:ADBE Transform Group|ADBE Position_2	Values:0	
+Values		Layer:2	CompID:157																PropName:Echelle	Property:ADBE Transform Group|ADBE Scale	Values:50;50	
+Values		Layer:3	CompID:157																PropName:X Position	Property:ADBE Transform Group|ADBE Position_0	Values:960	
+Values		Layer:3	CompID:157																PropName:Y Position	Property:ADBE Transform Group|ADBE Position_1	Values:540	
+Values		Layer:3	CompID:157																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:3	CompID:157																PropName:Z Position	Property:ADBE Transform Group|ADBE Position_2	Values:0	
+Values		Layer:3	CompID:157																PropName:Echelle	Property:ADBE Transform Group|ADBE Scale	Values:30;30	
+Values		Layer:4	CompID:157																PropName:X Position	Property:ADBE Transform Group|ADBE Position_0	Values:960	
+Values		Layer:4	CompID:157																PropName:Y Position	Property:ADBE Transform Group|ADBE Position_1	Values:540	
+Values		Layer:4	CompID:157																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:4	CompID:157																PropName:Z Position	Property:ADBE Transform Group|ADBE Position_2	Values:0	
+Values		Layer:4	CompID:157																PropName:Echelle	Property:ADBE Transform Group|ADBE Scale	Values:35;35	
+Values		Layer:5	CompID:157																PropName:X Position	Property:ADBE Transform Group|ADBE Position_0	Values:960	
+Values		Layer:5	CompID:157																PropName:Y Position	Property:ADBE Transform Group|ADBE Position_1	Values:540	
+Values		Layer:5	CompID:157																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:5	CompID:157																PropName:Z Position	Property:ADBE Transform Group|ADBE Position_2	Values:0	
+Values		Layer:5	CompID:157																PropName:Echelle	Property:ADBE Transform Group|ADBE Scale	Values:25;25	
+Values		Layer:6	CompID:157																PropName:X Position	Property:ADBE Transform Group|ADBE Position_0	Values:960	
+Values		Layer:6	CompID:157																PropName:Y Position	Property:ADBE Transform Group|ADBE Position_1	Values:540	
+Values		Layer:6	CompID:157																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:6	CompID:157																PropName:Z Position	Property:ADBE Transform Group|ADBE Position_2	Values:0	
+Values		Layer:6	CompID:157																PropName:Echelle	Property:ADBE Transform Group|ADBE Scale	Values:50;50	
+Values		Layer:7	CompID:157																PropName:X Position	Property:ADBE Transform Group|ADBE Position_0	Values:960	
+Values		Layer:7	CompID:157																PropName:Y Position	Property:ADBE Transform Group|ADBE Position_1	Values:540	
+Values		Layer:7	CompID:157																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:7	CompID:157																PropName:Z Position	Property:ADBE Transform Group|ADBE Position_2	Values:0	
+Values		Layer:7	CompID:157																PropName:Echelle	Property:ADBE Transform Group|ADBE Scale	Values:30;30	
+Values		Layer:8	CompID:157																PropName:X Position	Property:ADBE Transform Group|ADBE Position_0	Values:960	
+Values		Layer:8	CompID:157																PropName:Y Position	Property:ADBE Transform Group|ADBE Position_1	Values:540	
+Values		Layer:8	CompID:157																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:8	CompID:157																PropName:Z Position	Property:ADBE Transform Group|ADBE Position_2	Values:0	
+Values		Layer:8	CompID:157																PropName:Echelle	Property:ADBE Transform Group|ADBE Scale	Values:25;25	
+Values		Layer:9	CompID:157																PropName:X Position	Property:ADBE Transform Group|ADBE Position_0	Values:960	
+Values		Layer:9	CompID:157																PropName:Y Position	Property:ADBE Transform Group|ADBE Position_1	Values:540	
+Values		Layer:9	CompID:157																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:9	CompID:157																PropName:Z Position	Property:ADBE Transform Group|ADBE Position_2	Values:0	
+Values		Layer:9	CompID:157																PropName:Echelle	Property:ADBE Transform Group|ADBE Scale	Values:20;20	
+Values		Layer:10	CompID:157																PropName:X Position	Property:ADBE Transform Group|ADBE Position_0	Values:960	
+Values		Layer:10	CompID:157																PropName:Y Position	Property:ADBE Transform Group|ADBE Position_1	Values:540	
+Values		Layer:10	CompID:157																PropName:Position	Property:ADBE Transform Group|ADBE Position	Values:960;540	
+Values		Layer:10	CompID:157																PropName:Z Position	Property:ADBE Transform Group|ADBE Position_2	Values:0	
+Values		Layer:10	CompID:157																PropName:Echelle	Property:ADBE Transform Group|ADBE Scale	Values:35;35	
+Expression	CompID:75	Layer:1	Enabled:0																				Property:ADBE Transform Group|ADBE Position	Expression:wiggle(1,800)%r%%n%
+Expression	CompID:75	Layer:2	Enabled:1																				Property:ADBE Effect Parade|1|ADBE Point Control-0001	Expression:thisComp.layer("Control Particule").transform.position
+Expression	CompID:75	Layer:2	Enabled:1																				Property:ADBE Effect Parade|3|ADBE Color Control-0001	Expression:bouton=effect("FLARE : couleur automatique")("Case");%r%%n%%r%%n%if(bouton==1)%r%%n%{%r%%n%calque=effect("FLARE : couleur ciblé")("Calque");%r%%n%x=effect("FLARE : position XY")("Ponctuelle")[0]+(960-calque.transform.position[0]);%r%%n%y=effect("FLARE : position XY")("Ponctuelle")[1]+(540-calque.transform.position[1]);%r%%n%calque.sampleImage([x,y],[0.5, 0.5],true,10);%r%%n%}%r%%n%else{effect("FLARE : couleur")("Couleur");}
+Expression	CompID:75	Layer:3	Enabled:1																				Property:ADBE Effect Parade|1|CC Particle Systems II-0004	Expression:thisComp.layer("Control Particule").transform.position
+Expression	CompID:247	Layer:1	Enabled:1																				Property:ADBE Transform Group|ADBE Position	Expression:wiggle(1000,100)
+Expression	CompID:63	Layer:1	Enabled:1																				Property:ADBE Effect Parade|1|ADBE Exposure2-0003	Expression:frequence = comp("CraftLight").layer("FLARE").effect("SCINTILLEMENT fréquence")("Curseur");%r%%n%amplitude = 0.3;%r%%n%wiggle(frequence, amplitude);
+Expression	CompID:63	Layer:2	Enabled:1																				Property:ADBE Transform Group|ADBE Opacity	Expression:bouton=comp("CraftLight").layer("FLARE").effect("HOOP : afficher")("Case");%r%%n%if(bouton==1){opacity=100;}%r%%n%else{opacity=0;}
+Expression	CompID:63	Layer:3	Enabled:1																				Property:ADBE Effect Parade|1|ADBE Exposure2-0003	Expression:comp("CraftLight").layer("FLARE").effect("FLARE : luminosité")("Curseur")/500
+Expression	CompID:63	Layer:4	Enabled:1																				Property:ADBE Transform Group|ADBE Opacity	Expression:bouton=comp("CraftLight").layer("FLARE").effect("MULTI-IRIS : afficher")("Case");%r%%n%luminosite=comp("CraftLight").layer("FLARE").effect("IRIS : luminosité")("Curseur");%r%%n%if(bouton==1){opacity=luminosite;}%r%%n%else{opacity=0;}
+Expression	CompID:63	Layer:5	Enabled:1																				Property:ADBE Transform Group|ADBE Opacity	Expression:bouton=comp("CraftLight").layer("FLARE").effect("IRIS : afficher")("Case");%r%%n%luminosite=comp("CraftLight").layer("FLARE").effect("IRIS : luminosité")("Curseur");%r%%n%if(bouton==1){opacity=luminosite;}%r%%n%else{opacity=0;}
+Expression	CompID:23	Layer:1	Enabled:1																				Property:ADBE Effect Parade|1|ADBE Circle-0001	Expression:comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")
+Expression	CompID:23	Layer:1	Enabled:1																				Property:ADBE Transform Group|ADBE Opacity	Expression:bouton=comp("CraftLight").layer("FLARE").effect("POUSSIERE : afficher")("Case");%r%%n%if(bouton==1){opacity=30;}%r%%n%else{opacity=0;}
+Expression	CompID:23	Layer:2	Enabled:1																				Property:ADBE Effect Parade|1|CC Light Sweep-0001	Expression:thisComp.layer("Source").effect("Cercle")("Centre")
+Expression	CompID:23	Layer:2	Enabled:1																				Property:ADBE Effect Parade|1|CC Light Sweep-0005	Expression:comp("CraftLight").layer("FLARE").effect("STREAK : luminosité")("Curseur")
+Expression	CompID:23	Layer:2	Enabled:1																				Property:ADBE Effect Parade|1|CC Light Sweep-0008	Expression:thisComp.layer("Couleur").effect("Teinte")("Claire")
+Expression	CompID:23	Layer:2	Enabled:1																				Property:ADBE Transform Group|ADBE Opacity	Expression:bouton=comp("CraftLight").layer("FLARE").effect("STREAK : afficher")("Case")%r%%n%if(bouton==1){opacity=100;}%r%%n%else{opacity=0;}%r%%n%
+Expression	CompID:23	Layer:3	Enabled:1																				Property:ADBE Effect Parade|1|CS Vignette-0003	Expression:thisComp.layer("Source").effect("Cercle")("Centre")
+Expression	CompID:23	Layer:3	Enabled:1																				Property:ADBE Transform Group|ADBE Opacity	Expression:bouton=comp("CraftLight").layer("FLARE").effect("FLARE : compact")("Case")%r%%n%if(bouton==1){opacity=100;}%r%%n%else{opacity=0;}%r%%n%
+Expression	CompID:23	Layer:5	Enabled:1																				Property:ADBE Effect Parade|1|ADBE Tint-0002	Expression:comp("CraftLight").layer("FLARE").effect("FLARE : couleur")("Couleur")
+Expression	CompID:23	Layer:6	Enabled:1																				Property:ADBE Effect Parade|1|CC Radial Fast Blur-0001	Expression:thisComp.layer("Source").effect("Cercle")("Centre")
+Expression	CompID:23	Layer:7	Enabled:1																				Property:ADBE Root Vectors Group|2|ADBE Vectors Group|1|ADBE Vector Star Points	Expression:comp("CraftLight").layer("FLARE").effect("SPARKLE : points")("Curseur")
+Expression	CompID:23	Layer:7	Enabled:1																				Property:ADBE Root Vectors Group|2|ADBE Vectors Group|1|ADBE Vector Star Inner Radius	Expression:comp("CraftLight").layer("FLARE").effect("SPARKLE : rayon interne")("Curseur")
+Expression	CompID:23	Layer:7	Enabled:1																				Property:ADBE Root Vectors Group|2|ADBE Vectors Group|1|ADBE Vector Star Outer Radius	Expression:comp("CraftLight").layer("FLARE").effect("SPARKLE : rayon externe")("Curseur")
+Expression	CompID:23	Layer:7	Enabled:1																				Property:ADBE Root Vectors Group|2|ADBE Vector Transform Group|ADBE Vector Rotation	Expression:bouton=comp("CraftLight").layer("FLARE").effect("SPARKLE : rotation automatique")("Case");%r%%n%x=comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%rotationx=comp("CraftLight").layer("FLARE").effect("SPARKLE : rotation")("Angle");%r%%n%if(bouton==1){rotation=x/10;}%r%%n%else{rotation=rotationx;}
+Expression	CompID:23	Layer:7	Enabled:1																				Property:ADBE Transform Group|ADBE Position	Expression:thisComp.layer("Source").effect("Cercle")("Centre")
+Expression	CompID:23	Layer:7	Enabled:1																				Property:ADBE Transform Group|ADBE Scale	Expression:x=100;%r%%n%y=comp("CraftLight").layer("FLARE").effect("SPARKLE : anamorphique")("Curseur");%r%%n%[x,y]
+Expression	CompID:23	Layer:7	Enabled:1																				Property:ADBE Transform Group|ADBE Opacity	Expression:bouton=comp("CraftLight").layer("FLARE").effect("SPARKLE : afficher")("Case")%r%%n%luminosite=comp("CraftLight").layer("FLARE").effect("SPARKLE : luminosité")("Curseur")%r%%n%if(bouton==1){opacity=luminosite;}%r%%n%else{opacity=0;}%r%%n%
+Expression	CompID:23	Layer:8	Enabled:1																				Property:ADBE Effect Parade|1|ADBE Circle-0001	Expression:thisComp.layer("Source").effect("Cercle")("Centre")
+Expression	CompID:23	Layer:8	Enabled:1																				Property:ADBE Effect Parade|1|ADBE Circle-0002	Expression:thisComp.layer("Source").effect("Cercle")("Rayon")*75/30
+Expression	CompID:23	Layer:8	Enabled:1																				Property:ADBE Transform Group|ADBE Opacity	Expression:bouton=comp("CraftLight").layer("FLARE").effect("RING : afficher")("Case")%r%%n%if(bouton==1){opacity=100;}%r%%n%else{opacity=0;}%r%%n%
+Expression	CompID:23	Layer:9	Enabled:1																				Property:ADBE Effect Parade|1|ADBE Circle-0001	Expression:comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")
+Expression	CompID:23	Layer:9	Enabled:1																				Property:ADBE Effect Parade|1|ADBE Circle-0002	Expression:comp("CraftLight").layer("FLARE").effect("FLARE : taille")("Curseur")
+Expression	CompID:23	Layer:10	Enabled:1																				Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0001	Expression:bouton=comp("CraftLight").layer("FLARE").effect("TEXTURE GLOW : afficher")("Case");%r%%n%if(bouton==1){value=14;}%r%%n%else{value=15;}
+Expression	CompID:23	Layer:10	Enabled:1																				Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0010	Expression:comp("CraftLight").layer("FLARE").effect("TEXTURE GLOW : intensité")("Curseur")
+Expression	CompID:23	Layer:10	Enabled:1																				Property:ADBE Effect Parade|1|ADBE AIF Perlin Noise 3D-0013	Expression:thisComp.layer("Source").effect("Cercle")("Centre")
+Expression	CompID:23	Layer:10	Enabled:1																				Property:ADBE Effect Parade|2|ADBE Circle-0001	Expression:thisComp.layer("Source").effect("Cercle")("Centre")
+Expression	CompID:226	Layer:1	Enabled:1																				Property:ADBE Effect Parade|1|ADBE Tint-0002	Expression:comp("CraftLight").layer("FLARE").effect("FLARE : couleur")("Couleur")
+Expression	CompID:226	Layer:3	Enabled:1																				Property:ADBE Effect Parade|1|CC Light Burst 2.5-0001	Expression:comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")
+Expression	CompID:194	Layer:1	Enabled:1																				Property:ADBE Effect Parade|1|CC Cylinder-0004	Expression:x=comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%value=x-960;
+Expression	CompID:194	Layer:1	Enabled:1																				Property:ADBE Effect Parade|1|CC Cylinder-0005	Expression:y=comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%value=y-540;
+Expression	CompID:194	Layer:3	Enabled:1																				Property:ADBE Transform Group|ADBE Opacity	Expression:comp("CraftLight").layer("FLARE").effect("HOOP : luminosité")("Curseur")
+Expression	CompID:113	Layer:1	Enabled:1																				Property:ADBE Effect Parade|1|ADBE Tint-0002	Expression:comp("CraftLight").layer("FLARE").effect("FLARE : couleur")("Couleur")
+Expression	CompID:113	Layer:2	Enabled:1																				Property:ADBE Root Vectors Group|1|ADBE Vector Transform Group|ADBE Vector Scale	Expression:anamorphique=comp("CraftLight").layer("FLARE").effect("IRIS : anamorphique")("Curseur");%r%%n%[100,anamorphique];
+Expression	CompID:113	Layer:2	Enabled:1																				Property:ADBE Effect Parade|3|CC Burn Film-0002	Expression:transform.position
+Expression	CompID:113	Layer:2	Enabled:1																				Property:ADBE Transform Group|ADBE Position_0	Expression:distance=3;%r%%n%flare_centre_x=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[0];%r%%n%flare_position_x=flare_centre_x-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%iris_position_x=flare_centre_x-(flare_position_x*distance)*-1;
+Expression	CompID:113	Layer:2	Enabled:1																				Property:ADBE Transform Group|ADBE Position_1	Expression:distance=3;%r%%n%flare_centre_y=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[1];%r%%n%flare_position_y=flare_centre_y-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%iris_position_y=flare_centre_y-(flare_position_y*distance)*-1;
+Expression	CompID:168	Layer:1	Enabled:1																				Property:ADBE Effect Parade|1|ADBE Tint-0002	Expression:comp("CraftLight").layer("FLARE").effect("FLARE : couleur")("Couleur")
+Expression	CompID:168	Layer:2	Enabled:1																				Property:ADBE Root Vectors Group|1|ADBE Vector Transform Group|ADBE Vector Scale	Expression:anamorphique=comp("CraftLight").layer("FLARE").effect("IRIS : anamorphique")("Curseur");%r%%n%[100,anamorphique];
+Expression	CompID:168	Layer:2	Enabled:1																				Property:ADBE Effect Parade|3|CC Burn Film-0002	Expression:transform.position
+Expression	CompID:168	Layer:2	Enabled:0																				Property:ADBE Transform Group|ADBE Position_0	Expression:distance=3;%r%%n%flare_centre_x=comp("CraftLight").layer("Flare").effect("FLARE : centre XY")("Ponctuelle")[0];%r%%n%flare_position_x=flare_centre_x-comp("CraftLight").layer("Flare").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%iris_position_x=flare_centre_x-(flare_position_x*distance)*-1;
+Expression	CompID:168	Layer:2	Enabled:0																				Property:ADBE Transform Group|ADBE Position_1	Expression:distance=3;%r%%n%flare_centre_y=comp("CraftLight").layer("Flare").effect("FLARE : centre XY")("Ponctuelle")[1];%r%%n%flare_position_y=flare_centre_y-comp("CraftLight").layer("Flare").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%iris_position_y=flare_centre_y-(flare_position_y*distance)*-1;
+Expression	CompID:157	Layer:1	Enabled:1																				Property:ADBE Transform Group|ADBE Position_0	Expression:distance=-0.8;%r%%n%flare_centre_x=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[0];%r%%n%flare_position_x=flare_centre_x-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%iris_position_x=flare_centre_x-(flare_position_x*distance)*-1;
+Expression	CompID:157	Layer:1	Enabled:1																				Property:ADBE Transform Group|ADBE Position_1	Expression:distance=-0.8;%r%%n%flare_centre_y=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[1];%r%%n%flare_position_y=flare_centre_y-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%iris_position_y=flare_centre_y-(flare_position_y*distance)*-1;
+Expression	CompID:157	Layer:2	Enabled:1																				Property:ADBE Transform Group|ADBE Position_0	Expression:distance=-0.5;%r%%n%flare_centre_x=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[0];%r%%n%flare_position_x=flare_centre_x-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%iris_position_x=flare_centre_x-(flare_position_x*distance)*-1;
+Expression	CompID:157	Layer:2	Enabled:1																				Property:ADBE Transform Group|ADBE Position_1	Expression:distance=-0.5;%r%%n%flare_centre_y=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[1];%r%%n%flare_position_y=flare_centre_y-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%iris_position_y=flare_centre_y-(flare_position_y*distance)*-1;
+Expression	CompID:157	Layer:3	Enabled:1																				Property:ADBE Transform Group|ADBE Position_0	Expression:distance=-0.2;%r%%n%flare_centre_x=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[0];%r%%n%flare_position_x=flare_centre_x-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%iris_position_x=flare_centre_x-(flare_position_x*distance)*-1;
+Expression	CompID:157	Layer:3	Enabled:1																				Property:ADBE Transform Group|ADBE Position_1	Expression:distance=-0.2;%r%%n%flare_centre_y=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[1];%r%%n%flare_position_y=flare_centre_y-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%iris_position_y=flare_centre_y-(flare_position_y*distance)*-1;
+Expression	CompID:157	Layer:4	Enabled:1																				Property:ADBE Transform Group|ADBE Position_0	Expression:distance=0.5;%r%%n%flare_centre_x=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[0];%r%%n%flare_position_x=flare_centre_x-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%iris_position_x=flare_centre_x-(flare_position_x*distance)*-1;
+Expression	CompID:157	Layer:4	Enabled:1																				Property:ADBE Transform Group|ADBE Position_1	Expression:distance=0.5;%r%%n%flare_centre_y=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[1];%r%%n%flare_position_y=flare_centre_y-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%iris_position_y=flare_centre_y-(flare_position_y*distance)*-1;
+Expression	CompID:157	Layer:5	Enabled:1																				Property:ADBE Transform Group|ADBE Position_0	Expression:distance=0.5;%r%%n%flare_centre_x=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[0];%r%%n%flare_position_x=flare_centre_x-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%iris_position_x=flare_centre_x-(flare_position_x*distance)*-1;
+Expression	CompID:157	Layer:5	Enabled:1																				Property:ADBE Transform Group|ADBE Position_1	Expression:distance=0.5;%r%%n%flare_centre_y=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[1];%r%%n%flare_position_y=flare_centre_y-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%iris_position_y=flare_centre_y-(flare_position_y*distance)*-1;
+Expression	CompID:157	Layer:6	Enabled:1																				Property:ADBE Transform Group|ADBE Position_0	Expression:distance=0.8;%r%%n%flare_centre_x=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[0];%r%%n%flare_position_x=flare_centre_x-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%iris_position_x=flare_centre_x-(flare_position_x*distance)*-1;
+Expression	CompID:157	Layer:6	Enabled:1																				Property:ADBE Transform Group|ADBE Position_1	Expression:distance=0.8;%r%%n%flare_centre_y=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[1];%r%%n%flare_position_y=flare_centre_y-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%iris_position_y=flare_centre_y-(flare_position_y*distance)*-1;
+Expression	CompID:157	Layer:7	Enabled:1																				Property:ADBE Transform Group|ADBE Position_0	Expression:distance=1.2;%r%%n%flare_centre_x=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[0];%r%%n%flare_position_x=flare_centre_x-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%iris_position_x=flare_centre_x-(flare_position_x*distance)*-1;
+Expression	CompID:157	Layer:7	Enabled:1																				Property:ADBE Transform Group|ADBE Position_1	Expression:distance=1.2;%r%%n%flare_centre_y=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[1];%r%%n%flare_position_y=flare_centre_y-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%iris_position_y=flare_centre_y-(flare_position_y*distance)*-1;
+Expression	CompID:157	Layer:8	Enabled:1																				Property:ADBE Transform Group|ADBE Position_0	Expression:distance=1.7;%r%%n%flare_centre_x=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[0];%r%%n%flare_position_x=flare_centre_x-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%iris_position_x=flare_centre_x-(flare_position_x*distance)*-1;
+Expression	CompID:157	Layer:8	Enabled:1																				Property:ADBE Transform Group|ADBE Position_1	Expression:distance=1.7;%r%%n%flare_centre_y=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[1];%r%%n%flare_position_y=flare_centre_y-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%iris_position_y=flare_centre_y-(flare_position_y*distance)*-1;
+Expression	CompID:157	Layer:9	Enabled:1																				Property:ADBE Transform Group|ADBE Position_0	Expression:distance=2;%r%%n%flare_centre_x=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[0];%r%%n%flare_position_x=flare_centre_x-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%iris_position_x=flare_centre_x-(flare_position_x*distance)*-1;
+Expression	CompID:157	Layer:9	Enabled:1																				Property:ADBE Transform Group|ADBE Position_1	Expression:distance=2;%r%%n%flare_centre_y=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[1];%r%%n%flare_position_y=flare_centre_y-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%iris_position_y=flare_centre_y-(flare_position_y*distance)*-1;
+Expression	CompID:157	Layer:10	Enabled:1																				Property:ADBE Transform Group|ADBE Position_0	Expression:distance=2.5;%r%%n%flare_centre_x=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[0];%r%%n%flare_position_x=flare_centre_x-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[0];%r%%n%iris_position_x=flare_centre_x-(flare_position_x*distance)*-1;
+Expression	CompID:157	Layer:10	Enabled:1																				Property:ADBE Transform Group|ADBE Position_1	Expression:distance=2.5;%r%%n%flare_centre_y=comp("CraftLight").layer("FLARE").effect("FLARE : centre XY")("Ponctuelle")[1];%r%%n%flare_position_y=flare_centre_y-comp("CraftLight").layer("FLARE").effect("FLARE : position XY")("Ponctuelle")[1];%r%%n%iris_position_y=flare_centre_y-(flare_position_y*distance)*-1;

@@ -1,0 +1,26 @@
+Etape 1
+
+This script requires After Effects CS3 or later.
+
+Install the script by placing it in After Effects/Scripts (MAC) or After Effects/Support Files/Scripts (WINDOWS).
+Once you restart After Effects you'll be able to select the script from File > Scripts menu.
+
+NOTE: It is NOT recommended to install the script in the Scripts/ScriptUI Panels subfolder.
+
+----------------------------------
+
+Etape 2
+
+Lancer After Effects, lancer le script, cliquer sur "import" et sélectionner le fichier : "CraftLight by NF.tsv"
+
+Fin
+
+----------------------------------
+
+Remarque :
+
+Ce script est une version d'essai. Mais fonctionne parfaitement pour ce type de manipulation. Cependant, il est utilisable pour 7 jours.
+
+Source : http://aescripts.com/pt_opensesame/
+
+Auteur : Paul Tuersley (http://aescripts.com/authors/m-p/paul-tuersley/)
